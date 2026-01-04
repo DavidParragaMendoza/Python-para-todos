@@ -2,7 +2,7 @@
 
 > *"El objetivo es que dejes de ser un consumidor de tecnología para convertirte en un creador."* — Dr. Chuck
 
-¡Hola! 👋 Soy **[TU NOMBRE]**.
+¡Hola! 👋 Soy **David Parraga Mendoza**.
 Este repositorio es mi "Jardín Digital" 🌱 donde documento mi progreso en la Especialización **Python for Everybody** de la Universidad de Michigan (Coursera).
 
 Aquí no solo encontrarás código, sino mis notas conceptuales sobre cómo funciona la programación "bajo el capó".
@@ -13,10 +13,13 @@ Aquí no solo encontrarás código, sino mis notas conceptuales sobre cómo func
 
 | Curso | Estado | Mis Apuntes (Notion/Markdown) | Concepto Clave |
 | :--- | :---: | :--- | :--- |
-| **1. Programación para todos (Primeros pasos)** | 🟡 En Progreso | [📄 Ver Notas Módulo 1]([TU LINK DE NOTION AQUI]) | Arquitectura de Hardware & Variables |
-| **2. Estructuras de Datos con Python** | 🔴 Pendiente | ... | ... |
+| **1. Programación para todos** | 🟡 En Curso | [📄 Ver Notas Módulo 1](https://www.notion.so/M-dulo-1-Por-qu-programamos-2dc01df1c1a0803396bec8cbc0f5f322?source=copy_link) | Arquitectura & Variables |
+| ↳ *Módulo 2: Variables* | 🔴 Pendiente | [📄 Próximamente](...) | ... |
+| ↳ *Módulo 3: Condicionales* | 🔴 Pendiente | [📄 Próximamente](...) | ... |
+| ↳ *Módulo 4: Funciones* | 🔴 Pendiente | [📄 Próximamente](...) | ... |
+| **2. Estructuras de Datos** | 🔴 Pendiente | ... | ... |
 | **3. Acceso a Datos Web** | 🔴 Pendiente | ... | ... |
-| **4. Uso de Bases de Datos con Python** | 🔴 Pendiente | ... | ... |
+| **4. Uso de Bases de Datos** | 🔴 Pendiente | ... | ... |
 
 ---
 
@@ -49,8 +52,8 @@ Entender cómo funciona una computadora es más fácil si imaginas una cocina pr
 
 Estoy documentando este viaje públicamente. Si también estás aprendiendo o tienes consejos, ¡me encantaría conectar!
 
-* 💼 **LinkedIn:** [Tu Perfil]
-* 🐦 **X (Twitter):** [Tu Usuario]
+* 💼 **LinkedIn:** [David Parraga Mendoza](https://www.linkedin.com/in/davidparragamendoza/)
+* 🐦 **X (Twitter):** [@DavidParragaMen](https://x.com/DavidParragaMen)
 
 ---
 *Repositorio actualizado automáticamente a medida que avanzo en mis estudios.* 🚀
