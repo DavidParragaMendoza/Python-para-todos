@@ -1,7 +1,5 @@
 # Módulo 1 - Por qué programamos.
 
-
-
 # Resumen:
 
 Este modulo se centro en dar una bienvenida a los estudiantes, ademas de explicar algunos conceptos de programación e informatica, que nos invitan a reflexionar sobre el papel de los programadores y definir en donde es que “**vivimos**” dentro de la computadoras. 
@@ -10,7 +8,7 @@ Este modulo se centro en dar una bienvenida a los estudiantes, ademas de explica
 
 Hay varias formas de obtener el libro de texto, **Python for Everybody: Exploring Data In Python 3,** y los materiales asociados utilizados en este curso, pero aqui dejo un link para descargar en PDF
 
-[](https://upse-my.sharepoint.com/:f:/g/personal/ronald_parragamendoza3006_upse_edu_ec/IgAw8ZFEF4vPSIG5BuW-w3WoAWMObdgmn33zsyQ0F02Gxis?e=5iQCO5)
+[Descargar materiales del curso](https://upse-my.sharepoint.com/:f:/g/personal/ronald_parragamendoza3006_upse_edu_ec/IgAw8ZFEF4vPSIG5BuW-w3WoAWMObdgmn33zsyQ0F02Gxis?e=5iQCO5)
 
 # **1. Bienvenida y Filosofía del Curso**
 
@@ -76,4 +74,4 @@ El **programa** es la receta escrita que el chef debe seguir al pie de la letra 
 
 </aside>
 
-![](https://images.unsplash.com/photo-1538439907460-1596cafd4eff?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb)
+![Imagen representativa de una python](https://images.unsplash.com/photo-1538439907460-1596cafd4eff?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb)
