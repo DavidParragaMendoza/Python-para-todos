@@ -74,4 +74,4 @@ El **programa** es la receta escrita que el chef debe seguir al pie de la letra 
 
 </aside>
 
-![Imagen representativa de una python](https://images.unsplash.com/photo-1538439907460-1596cafd4eff?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb)
+![Imagen representativa de una python](img.jpg)
