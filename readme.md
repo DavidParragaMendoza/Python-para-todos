@@ -30,8 +30,8 @@ Entender cómo funciona una computadora es más fácil si imaginas una cocina pr
 ### **📘 Curso 1: Programación para todos (Primeros pasos)**
 ![Estado: En Progreso](https://img.shields.io/badge/Estado-🟡_En_Progreso-yellow?style=flat-square)
 
-* ✅ [**Módulo 1: Por qué programamos**](https://www.notion.so/M-dulo-1-Por-qu-programamos-2dc01df1c1a0803396bec8cbc0f5f322?source=copy_link)
-    * 💡 *Concepto Clave:* Arquitectura de Hardware & Variables.
+* 🟢 **Módulo 1: Por qué programamos**
+    * 💡 [📄 **Ver Notas en Notion**](https://www.notion.so/M-dulo-1-Por-qu-programamos-2dc01df1c1a0803396bec8cbc0f5f322?source=copy_link)
 * **Módulo 2: Instalación de Python** ![Bloqueado](https://img.shields.io/badge/Bloqueado-🔒-lightgrey?style=flat-square)
 * **Módulo 3: Por qué programamos (continuación)** ![Bloqueado](https://img.shields.io/badge/Bloqueado-🔒-lightgrey?style=flat-square)
 * **Módulo 4: Variables y expresiones** ![Bloqueado](https://img.shields.io/badge/Bloqueado-🔒-lightgrey?style=flat-square)
