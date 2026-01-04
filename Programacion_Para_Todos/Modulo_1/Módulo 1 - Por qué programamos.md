@@ -1,6 +1,6 @@
 # Módulo 1 - Por qué programamos.
 
-Status: Modulo 1
+
 
 # Resumen:
 
