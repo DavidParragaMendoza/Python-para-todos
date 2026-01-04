@@ -27,37 +27,21 @@ Entender cómo funciona una computadora es más fácil si imaginas una cocina pr
 
 ## 🚀 Progreso de la Especialización
 
-
-
 ### **📘 Curso 1: Programación para todos (Primeros pasos)**
 ![Estado: En Progreso](https://img.shields.io/badge/Estado-🟡_En_Progreso-yellow?style=flat-square)
 
 * ✅ [**Módulo 1: Por qué programamos**](https://www.notion.so/M-dulo-1-Por-qu-programamos-2dc01df1c1a0803396bec8cbc0f5f322?source=copy_link)
     * 💡 *Concepto Clave:* Arquitectura de Hardware & Variables.
-* 🗓️ **Módulo 2: Instalación de Python** (Próximamente)
-* 🗓️ **Módulo 3: Por qué programamos (continuacion)** (Próximamente)
-* 🗓️ **Módulo 4: Variables y expresiones** (Próximamente)
-* 🗓️ **Módulo 5: Código condicional** (Próximamente)
-* 🗓️ **Módulo 6: Funciones** (Próximamente)
-* 🗓️ **Módulo 7: Bucles e Iteración** (Próximamente)
-&nbsp;
-<!-- 
-### **📕 Curso 2: Estructuras de Datos con Python**
-![Estado: Pendiente](https://img.shields.io/badge/Estado-🔴_Pendiente-red?style=flat-square)
+* **Módulo 2: Instalación de Python** ![Bloqueado](https://img.shields.io/badge/Bloqueado-🔒-lightgrey?style=flat-square)
+* **Módulo 3: Por qué programamos (continuación)** ![Bloqueado](https://img.shields.io/badge/Bloqueado-🔒-lightgrey?style=flat-square)
+* **Módulo 4: Variables y expresiones** ![Bloqueado](https://img.shields.io/badge/Bloqueado-🔒-lightgrey?style=flat-square)
+* **Módulo 5: Código condicional** ![Bloqueado](https://img.shields.io/badge/Bloqueado-🔒-lightgrey?style=flat-square)
+* **Módulo 6: Funciones** ![Bloqueado](https://img.shields.io/badge/Bloqueado-🔒-lightgrey?style=flat-square)
+* **Módulo 7: Bucles e Iteración** ![Bloqueado](https://img.shields.io/badge/Bloqueado-🔒-lightgrey?style=flat-square)
 
 &nbsp;
 
-### **📗 Curso 3: Acceso a Datos Web**
-![Estado: Pendiente](https://img.shields.io/badge/Estado-🔴_Pendiente-red?style=flat-square)
-
-&nbsp;
-
-### **📙 Curso 4: Uso de Bases de Datos con Python**
-![Estado: Pendiente](https://img.shields.io/badge/Estado-🔴_Pendiente-red?style=flat-square)
-
- -->
 ---
-
 
 ## 🛠️ Tech Stack & Herramientas
 
