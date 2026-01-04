@@ -11,15 +11,29 @@ Aquí no solo encontrarás código, sino mis notas conceptuales sobre cómo func
 
 ## 🚀 Progreso de la Especialización
 
-| Curso | Estado | Mis Apuntes (Notion/Markdown) | Concepto Clave |
-| :--- | :---: | :--- | :--- |
-| **1. Programación para todos** | 🟡 En Curso | [📄 Ver Notas Módulo 1](https://www.notion.so/M-dulo-1-Por-qu-programamos-2dc01df1c1a0803396bec8cbc0f5f322?source=copy_link) | Arquitectura & Variables |
-| ↳ *Módulo 2: Variables* | 🔴 Pendiente | [📄 Próximamente](...) | ... |
-| ↳ *Módulo 3: Condicionales* | 🔴 Pendiente | [📄 Próximamente](...) | ... |
-| ↳ *Módulo 4: Funciones* | 🔴 Pendiente | [📄 Próximamente](...) | ... |
-| **2. Estructuras de Datos** | 🔴 Pendiente | ... | ... |
-| **3. Acceso a Datos Web** | 🔴 Pendiente | ... | ... |
-| **4. Uso de Bases de Datos** | 🔴 Pendiente | ... | ... |
+### **📘 Curso 1: Programación para todos (Primeros pasos)**
+![Estado: En Progreso](https://img.shields.io/badge/Estado-🟡_En_Progreso-yellow?style=flat-square)
+
+* ✅ [**Módulo 1: Por qué programamos**](https://www.notion.so/M-dulo-1-Por-qu-programamos-2dc01df1c1a0803396bec8cbc0f5f322?source=copy_link)
+    * 💡 *Concepto Clave:* Arquitectura de Hardware & Variables.
+* 🗓️ **Módulo 2: Variables y Expresiones** (Próximamente)
+* 🗓️ **Módulo 3: Código Condicional** (Próximamente)
+* 🗓️ **Módulo 4: Funciones** (Próximamente)
+
+&nbsp;
+
+### **📕 Curso 2: Estructuras de Datos con Python**
+![Estado: Pendiente](https://img.shields.io/badge/Estado-🔴_Pendiente-red?style=flat-square)
+
+&nbsp;
+
+### **📗 Curso 3: Acceso a Datos Web**
+![Estado: Pendiente](https://img.shields.io/badge/Estado-🔴_Pendiente-red?style=flat-square)
+
+&nbsp;
+
+### **📙 Curso 4: Uso de Bases de Datos con Python**
+![Estado: Pendiente](https://img.shields.io/badge/Estado-🔴_Pendiente-red?style=flat-square)
 
 ---
 
