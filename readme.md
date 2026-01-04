@@ -30,14 +30,16 @@ Entender cómo funciona una computadora es más fácil si imaginas una cocina pr
 ### **📘 Curso 1: Programación para todos (Primeros pasos)**
 ![Estado: En Progreso](https://img.shields.io/badge/Estado-🟡_En_Progreso-yellow?style=flat-square)
 
-* 🟢 **Módulo 1: Por qué programamos**
-    * 💡 [📄 **Ver Notas en Notion**](https://www.notion.so/M-dulo-1-Por-qu-programamos-2dc01df1c1a0803396bec8cbc0f5f322?source=copy_link)
-* **Módulo 2: Instalación de Python** ![Bloqueado](https://img.shields.io/badge/Bloqueado-🔒-lightgrey?style=flat-square)
-* **Módulo 3: Por qué programamos (continuación)** ![Bloqueado](https://img.shields.io/badge/Bloqueado-🔒-lightgrey?style=flat-square)
-* **Módulo 4: Variables y expresiones** ![Bloqueado](https://img.shields.io/badge/Bloqueado-🔒-lightgrey?style=flat-square)
-* **Módulo 5: Código condicional** ![Bloqueado](https://img.shields.io/badge/Bloqueado-🔒-lightgrey?style=flat-square)
-* **Módulo 6: Funciones** ![Bloqueado](https://img.shields.io/badge/Bloqueado-🔒-lightgrey?style=flat-square)
-* **Módulo 7: Bucles e Iteración** ![Bloqueado](https://img.shields.io/badge/Bloqueado-🔒-lightgrey?style=flat-square)
+* ✅ **Módulo 1: Por qué programamos**
+    * 💡 *Concepto Clave:* Arquitectura de Hardware & Variables — [📄 **Ver Notas en Notion**](https://www.notion.so/M-dulo-1-Por-qu-programamos-2dc01df1c1a0803396bec8cbc0f5f322?source=copy_link)
+* ✅ **Módulo 2: Instalación de Python**
+    * 💡 *Logro:* Entorno configurado (VS Code + PyCharm) y conectado a GitHub.
+* **Módulo 3: Variables y expresiones** ![En Progreso](https://img.shields.io/badge/En_Progreso-🟡-yellow?style=flat-square)
+* **Módulo 4: Código condicional** ![Bloqueado](https://img.shields.io/badge/Bloqueado-🔒-lightgrey?style=flat-square)
+* **Módulo 5: Funciones** ![Bloqueado](https://img.shields.io/badge/Bloqueado-🔒-lightgrey?style=flat-square)
+* **Módulo 6: Bucles e Iteración** ![Bloqueado](https://img.shields.io/badge/Bloqueado-🔒-lightgrey?style=flat-square)
+
+
 
 &nbsp;
 
