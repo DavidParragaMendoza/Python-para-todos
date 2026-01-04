@@ -1,12 +1,16 @@
-# Capítulo 1- Por qué programamos.
+# Módulo 1 - Por qué programamos.
 
 Status: Modulo 1
 
-# Aprender a programar
+# Resumen:
 
-es como aprender a escribir una historia: primero aprendes a deletrear palabras, luego a formar frases simples y, finalmente, desarrollas la habilidad de contar un relato completo para resolver un problema específico
+Este modulo se centro en dar una bienvenida a los estudiantes, ademas de explicar algunos conceptos de programación e informatica, que nos invitan a reflexionar sobre el papel de los programadores y definir en donde es que “**vivimos**” dentro de la computadoras. 
 
-Al igual que un perro que entiende palabras clave, Python está "entrenado" para responder a sus **palabras reservadas**,
+# **Libro de texto del curso:**
+
+Hay varias formas de obtener el libro de texto, **Python for Everybody: Exploring Data In Python 3,** y los materiales asociados utilizados en este curso, pero aqui dejo un link para descargar en PDF
+
+[](https://upse-my.sharepoint.com/:f:/g/personal/ronald_parragamendoza3006_upse_edu_ec/IgAw8ZFEF4vPSIG5BuW-w3WoAWMObdgmn33zsyQ0F02Gxis?e=5iQCO5)
 
 # **1. Bienvenida y Filosofía del Curso**
 
@@ -34,7 +38,7 @@ Para programar, es vital entender las partes que orquestarás con tu código:
 - **Dispositivos de Entrada/Salida:** Teclado, ratón, pantalla y red, que permiten la interacción con el mundo exterior.
 
 <aside>
-💡
+💻
 
 Un programa se guarda en la memoria secundaria, se carga en la principal y la CPU lo ejecuta siguiendo el ciclo de **"búsqueda y ejecución"**.
 
@@ -56,7 +60,7 @@ Cuando el programa falla, entras en el proceso de **depuración (debugging)**, q
 **Analogía para recordar el hardware:**
 
 <aside>
-🧠
+🐍
 
 La computadora es una **cocina**: 
 
@@ -71,3 +75,5 @@ Los **Dispositivos de Entrada** son los pedidos que los clientes envían al chef
 El **programa** es la receta escrita que el chef debe seguir al pie de la letra para que el plato salga bien.
 
 </aside>
+
+![](https://images.unsplash.com/photo-1538439907460-1596cafd4eff?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb)
