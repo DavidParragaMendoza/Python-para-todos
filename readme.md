@@ -9,9 +9,7 @@ Aquí no solo encontrarás código, sino mis notas conceptuales sobre cómo func
 
 ---
 
-## 🚀 Progreso de la Especialización
-
-# 🧠 Aprendizaje Destacado de la Semana
+## 🧠 Aprendizaje Destacado de la Semana
 
 *Del Módulo 1: Arquitectura del Hardware*
 
@@ -26,6 +24,9 @@ Entender cómo funciona una computadora es más fácil si imaginas una cocina pr
 > *Mi trabajo como programador es escribir la **receta** perfecta para que el Chef no se pierda.*
 
 ---
+
+## 🚀 Progreso de la Especialización
+
 
 
 ### **📘 Curso 1: Programación para todos (Primeros pasos)**
@@ -54,7 +55,9 @@ Entender cómo funciona una computadora es más fácil si imaginas una cocina pr
 ### **📙 Curso 4: Uso de Bases de Datos con Python**
 ![Estado: Pendiente](https://img.shields.io/badge/Estado-🔴_Pendiente-red?style=flat-square)
 
---- -->
+ -->
+---
+
 
 ## 🛠️ Tech Stack & Herramientas
 
