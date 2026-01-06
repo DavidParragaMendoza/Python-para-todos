@@ -10,8 +10,7 @@ Aquí no solo encontrarás código, sino mis notas conceptuales sobre cómo func
 ---
 
 ## 🧠 Aprendizaje Destacado de la Semana
-
-*Del Módulo 1: Arquitectura del Hardware*
+**Del Módulo 1: Arquitectura del Hardware**
 
 Entender cómo funciona una computadora es más fácil si imaginas una cocina profesional. Esta analogía cambió mi forma de ver el código:
 
@@ -23,6 +22,15 @@ Entender cómo funciona una computadora es más fácil si imaginas una cocina pr
 >
 > *Mi trabajo como programador es escribir la **receta** perfecta para que el Chef no se pierda.*
 
+**Del Módulo 2: Escritura de programas reales utilizando Python**
+
+> **✍️ Primer Programa:**  
+> La primera tarea práctica consistió en crear un script (taria1.py) que no fuera el clásico "hola mundo"  
+> * **Objetivo:** Demostrar que el entorno local funciona correctamente mediante la impresión de líneas personalizadas.
+>* **Sintaxis:** Se utiliza la función print() con paréntesis y comillas, asegurando una precisión absoluta para evitar errores de sintaxis.
+>* **Documentación:** En el ejemplo del módulo, se utilizaron triple comillas (''') para incluir las instrucciones del ejercicio dentro del mismo archivo sin que afecten la ejecución.
+> * **Verificación:** La tarea requiere capturas de pantalla tanto del editor con el código como de la línea de comandos mostrando la salida del programa.
+
 ---
 
 ## 🚀 Progreso de la Especialización
@@ -31,13 +39,24 @@ Entender cómo funciona una computadora es más fácil si imaginas una cocina pr
 ![Estado: En Progreso](https://img.shields.io/badge/Estado-🟡_En_Progreso-yellow?style=flat-square)
 
 * ✅ **Módulo 1: Por qué programamos**
-    * 💡 *Concepto Clave:* Arquitectura de Hardware & Variables — [📄 **Ver Notas en Notion**](https://www.notion.so/M-dulo-1-Por-qu-programamos-2dc01df1c1a0803396bec8cbc0f5f322?source=copy_link)
+    * 💡 **Concepto Clave:**  
+    Arquitectura de Hardware & Software.      
+    [📄 **Ver Notas en Notion**](https://www.notion.so/M-dulo-1-Por-qu-programamos-2dc01df1c1a0803396bec8cbc0f5f322?source=copy_link)
 * ✅ **Módulo 2: Instalación de Python**
-    * 💡 *Logro:* Entorno configurado (VS Code + PyCharm) y conectado a GitHub.
-* **Módulo 3: Variables y expresiones** ![En Progreso](https://img.shields.io/badge/En_Progreso-🟡-yellow?style=flat-square)
-* **Módulo 4: Código condicional** ![Bloqueado](https://img.shields.io/badge/Bloqueado-🔒-lightgrey?style=flat-square)
-* **Módulo 5: Funciones** ![Bloqueado](https://img.shields.io/badge/Bloqueado-🔒-lightgrey?style=flat-square)
-* **Módulo 6: Bucles e Iteración** ![Bloqueado](https://img.shields.io/badge/Bloqueado-🔒-lightgrey?style=flat-square)
+    * 💡 **Logro:**  
+     Descargar y configurar Python y VSCODE con extensiones.  
+    Primer Programa en Python (4/1/2026).  
+    [📄 **Ver Notas en Notion**](https://www.notion.so/M-dulo-2-Descargar-Python-2df01df1c1a0803e8715c7e774d6f89b?source=copy_link)
+
+    
+* **Módulo 3: Variables y expresiones**   
+![En Progreso](https://img.shields.io/badge/En_Progreso-🟡-yellow?style=flat-square)
+* **Módulo 4: Código condicional**   
+![Bloqueado](https://img.shields.io/badge/Bloqueado-🔒-lightgrey?style=flat-square)
+* **Módulo 5: Funciones**   
+![Bloqueado](https://img.shields.io/badge/Bloqueado-🔒-lightgrey?style=flat-square)
+* **Módulo 6: Bucles e Iteración**   
+![Bloqueado](https://img.shields.io/badge/Bloqueado-🔒-lightgrey?style=flat-square)
 
 
 
