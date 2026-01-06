@@ -49,7 +49,7 @@ Entender cómo funciona una computadora es más fácil si imaginas una cocina pr
     [📄 **Ver Notas en Notion**](https://www.notion.so/M-dulo-2-Descargar-Python-2df01df1c1a0803e8715c7e774d6f89b?source=copy_link)
 
     
-* **Módulo 3: Variables y expresiones**   
+* **Módulo 3: Variables y expresiones**    
 ![En Progreso](https://img.shields.io/badge/En_Progreso-🟡-yellow?style=flat-square)
 * **Módulo 4: Código condicional**   
 ![Bloqueado](https://img.shields.io/badge/Bloqueado-🔒-lightgrey?style=flat-square)
