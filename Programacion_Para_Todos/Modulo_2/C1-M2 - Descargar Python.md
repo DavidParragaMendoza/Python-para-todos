@@ -4,13 +4,13 @@
 
 En el Módulo 2 se presenta el Python Playground, una herramienta que permite escribir y ejecutar programas de Python directamente en el navegador sin necesidad de instalar el software en tu computadora
 
-![Python_Playground.png](Python_Playground.png)
+![Python_Playground.png](img/Python_Playground.png)
 
 # 🛠️ Resumen de Configuración del Entorno de Desarrollo (Python):
 
 ## ¿Como descargar Python?
 
-![image.png](image.png)
+![image.png](img/image.png)
 
 Antes de cualquier herramienta visual, se instaló el intérprete base.
 
@@ -29,7 +29,7 @@ Antes de cualquier herramienta visual, se instaló el intérprete base.
 
 - **Verificación:** Se comprobó la instalación exitosa ejecutando en la terminal:
     
-    ![image.png](image%201.png)
+    ![image.png](img/image%201.png)
     
 
 ## **Visual Studio Code:**
@@ -42,17 +42,17 @@ Instalación de las extensiónes oficial **Python (de Microsoft)** desde el Mark
 
 1. **Python**:
     
-    ![extension.png](b3863a8b-2837-4a87-a636-b910c6eea7ce.png)
+    ![extension.png](img/b3863a8b-2837-4a87-a636-b910c6eea7ce.png)
 
 
 2. **Pylance**:
     
-    ![Pylance.png](4e62c121-0244-47ba-8fee-620db1f53407.png)
+    ![Pylance.png](img/4e62c121-0244-47ba-8fee-620db1f53407.png)
     
 
 3. **Python Debugger**:
     
-    ![image.png](c8717bd8-258a-44f5-bae2-ec042753b724.png)
+    ![image.png](img/c8717bd8-258a-44f5-bae2-ec042753b724.png)
     
 
 ## Primer Programa En Python:
@@ -77,4 +77,4 @@ print("la cual voy a documentar y publicar en redes. ")
 
 ```
 
-![TAREA1.png](TAREA1.png)
+![TAREA1.png](img/TAREA1.png)
