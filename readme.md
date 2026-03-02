@@ -24,7 +24,7 @@ Aquí no solo encontrarás código, sino mis notas conceptuales sobre cómo func
 > [🔗 **Ir al Notion general del curso**](https://www.notion.so/Programaci-n-para-todos-primeros-pasos-con-Python-2dc01df1c1a080ffa049eda0d3ae1d50?source=copy_link)
 ---
   
-  ## 👀 ¿Cómo revisar el contenido en Notion?
+## 👀 ¿Cómo revisar el contenido en Notion?
 
 ![¿Cómo revisar el contenido en Notion?](./Resumen_Libro/Capitulo_1/img/Notion-modulo-capitulo.gif)
 
@@ -34,9 +34,10 @@ Aquí no solo encontrarás código, sino mis notas conceptuales sobre cómo func
 ## 🧠 Aprendizajes Destacados
 
 <details>
-<summary><strong>🍳 Módulo 1 — La Computadora es una Cocina</strong></summary>
+<summary><strong>🍳 Módulo 1 - Capítulo uno - Por qué programamos</strong></summary>
 
 &nbsp;
+HOLA
 
 Entender cómo funciona una computadora es más fácil si imaginas una cocina profesional:
 
@@ -51,7 +52,7 @@ Entender cómo funciona una computadora es más fácil si imaginas una cocina pr
 </details>
 
 <details>
-<summary><strong>✍️ Módulo 2 — Primer programa real en Python</strong></summary>
+<summary><strong>✍️ Módulo 2 — Instalación de Python</strong></summary>
 
 &nbsp;
 
@@ -65,7 +66,7 @@ La primera tarea práctica consistió en crear un script (`Tarea1.py`) que no fu
 </details>
 
 <details>
-<summary><strong>🏗️ Módulo 3 — Variables, expresiones y sentencias</strong></summary>
+<summary><strong>🏗️ Módulo 3 — Capítulo uno: Por qué programamos (continuación)</strong></summary>
 
 &nbsp;
 
@@ -82,18 +83,38 @@ La primera tarea práctica consistió en crear un script (`Tarea1.py`) que no fu
 </details>
 
 <details>
-<summary><strong>🔀 Módulo 4 — Código Condicional</strong></summary>
+    <summary>
+        <strong>🔀 Módulo 4 — Capítulo dos: Variables y expresiones</strong>
+    </summary>
 
-&nbsp;
+        El módulo 4 introduce cómo hacer que los programas **tomen decisiones** en función de condiciones:
 
-El módulo 4 introduce cómo hacer que los programas **tomen decisiones** en función de condiciones:
+        | Concepto | Descripción |
+        |---|---|
+        | **Constantes** | Valores fijos que no cambian durante la ejecución (`PI = 3.14`). |
+        | **Variables** | Espacios de memoria con nombre que almacenan datos que pueden cambiar. |
+        | **Nombres de Variables** | Reglas de nomenclatura: deben ser descriptivos, no pueden empezar con número ni usar palabras reservadas. |
+        | **Asignación** | El operador `=` guarda un valor en una variable (`x = 42`). |
+</details>
 
-| Concepto | Descripción |
-|---|---|
-| **Constantes** | Valores fijos que no cambian durante la ejecución (`PI = 3.14`). |
-| **Variables** | Espacios de memoria con nombre que almacenan datos que pueden cambiar. |
-| **Nombres de Variables** | Reglas de nomenclatura: deben ser descriptivos, no pueden empezar con número ni usar palabras reservadas. |
-| **Asignación** | El operador `=` guarda un valor en una variable (`x = 42`). |
+
+<details>
+    <summary>
+        <strong>🟡 Módulo 5 — Capítulo 3: Código condicional</strong>
+    </summary>
+</details>
+
+<details>
+    <summary>
+        <strong>🔴 Módulo 6 — Capitulo 4: Funciones</strong>
+    </summary>
+</details>
+
+
+<details>
+    <summary>
+        <strong>🔴 Módulo 7 — Capítulo 5: Bucles e iteración</strong>
+    </summary>
 </details>
 
 ---
