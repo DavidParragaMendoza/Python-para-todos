@@ -83,18 +83,18 @@ La primera tarea práctica consistió en crear un script (`Tarea1.py`) que no fu
 </details>
 
 <details>
-    <summary>
-        <strong>🔀 Módulo 4 — Capítulo dos: Variables y expresiones</strong>
-    </summary>
+<summary><strong>🔀 Módulo 4 — Capítulo dos: Variables y expresiones</strong></summary>
 
-        El módulo 4 introduce cómo hacer que los programas **tomen decisiones** en función de condiciones:
+&nbsp;
 
-        | Concepto | Descripción |
-        |---|---|
-        | **Constantes** | Valores fijos que no cambian durante la ejecución (`PI = 3.14`). |
-        | **Variables** | Espacios de memoria con nombre que almacenan datos que pueden cambiar. |
-        | **Nombres de Variables** | Reglas de nomenclatura: deben ser descriptivos, no pueden empezar con número ni usar palabras reservadas. |
-        | **Asignación** | El operador `=` guarda un valor en una variable (`x = 42`). |
+El módulo 4 introduce cómo hacer que los programas **tomen decisiones** en función de condiciones:
+
+| Concepto | Descripción |
+|---|---|
+| **Constantes** | Valores fijos que no cambian durante la ejecución (`PI = 3.14`). |
+| **Variables** | Espacios de memoria con nombre que almacenan datos que pueden cambiar. |
+| **Nombres de Variables** | Reglas de nomenclatura: deben ser descriptivos, no pueden empezar con número ni usar palabras reservadas. |
+| **Asignación** | El operador `=` guarda un valor en una variable (`x = 42`). |
 </details>
 
 
