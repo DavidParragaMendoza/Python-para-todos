@@ -9,79 +9,95 @@ Aquí no solo encontrarás código, sino mis notas conceptuales sobre cómo func
 > *"El objetivo es que dejes de ser un consumidor de tecnología para convertirte en un creador."* — Dr. Chuck
 ---
 
-## 🧠 Aprendizaje Destacados:
-**Del Módulo 1: Arquitectura del Hardware**
-
-Entender cómo funciona una computadora es más fácil si imaginas una cocina profesional. Esta analogía cambió mi forma de ver el código:
-
-> **🍳 La Computadora es una Cocina:**
->
-> * **La CPU es el Chef:** Trabaja increíblemente rápido, pero necesita instrucciones precisas. Si no le dices qué hacer, se queda quieto.
-> * **La Memoria Principal (RAM) es la Encimera:** Donde están los ingredientes listos para usar y picar. Es rápido, pero se limpia al apagar la luz.
-> * **La Memoria Secundaria (Disco) es la Despensa:** Donde guardamos las recetas y la comida a largo plazo. Es más lento ir a buscar cosas allí, pero es seguro.
->
-> *Mi trabajo como programador es escribir la **receta** perfecta para que el Chef no se pierda.*
-
-**Del Módulo 2: Escritura de programas reales utilizando Python**
-
-> **✍️ Primer Programa:**  
-> La primera tarea práctica consistió en crear un script (taria1.py) que no fuera el clásico "hola mundo"  
-> * **Objetivo:** Demostrar que el entorno local funciona correctamente mediante la impresión de líneas personalizadas.
->* **Sintaxis:** Se utiliza la función print() con paréntesis y comillas, asegurando una precisión absoluta para evitar errores de sintaxis.
->* **Documentación:** En el ejemplo del módulo, se utilizaron triple comillas (''') para incluir las instrucciones del ejercicio dentro del mismo archivo sin que afecten la ejecución.
-> * **Verificación:** La tarea requiere capturas de pantalla tanto del editor con el código como de la línea de comandos mostrando la salida del programa.
-
-**Del Módulo 3: Variables, expresiones y sentencias**
-
-> **🏗️ Construyendo el Programa:**
->
-> * **Variables y Memoria:** Imagina la memoria como un depósito de casilleros. Las variables son las etiquetas que ponemos a esos casilleros para guardar y recuperar información (`x = 5`).
-> * **Palabras Reservadas:** El vocabulario limitado que Python entiende instintivamente (como un perro entiende "paseo").
-> * **Flujo del Código (Párrafos):**
->   * **Secuencial:** Pasos rectos, uno tras otro.
->   * **Condicional (`if`):** Bifurcaciones inteligentes donde el código toma decisiones.
->   * **Repetitivo (`while`/`for`):** La capacidad de la computadora para hacer tareas una y otra vez sin cansarse.
-
----
-
 ## 🚀 Progreso de la Especialización
 
 ### **📘 Curso 1: Programación para todos**
 
-✅ **Módulo 1: Por qué programamos**  
-* 💡 **Concepto Clave:**  
-    * Arquitectura de Hardware & Software.  
-[📄 **Ver Notas en Notion**](https://www.notion.so/M-dulo-1-Por-qu-programamos-2dc01df1c1a0803396bec8cbc0f5f322?source=copy_link)
+| # | Módulo | Estado |
+|:-:|--------|:------:|
+| 1 | Por qué programamos | ✅ |
+| 2 | Instalación de Python | ✅ |
+| 3 | Variables, expresiones y sentencias | ✅ |
+| 4 | Código condicional | ✅ |
+
+> 📎 **Todas las notas detalladas están en Notion:**  
+> [🔗 **Ir al Notion general del curso**](https://www.notion.so/Programaci-n-para-todos-primeros-pasos-con-Python-2dc01df1c1a080ffa049eda0d3ae1d50?source=copy_link)
+---
   
+  ## 👀 ¿Cómo revisar el contenido en Notion?
 
-✅ **Módulo 2: Instalación de Python**
-* 💡 **Logros:**  
-  *  Descargar y configurar Python y VSCODE con extensiones.  
-    * Primer Programa en Python (4/1/2026).  
-    [📄 **Ver Notas en Notion**](https://www.notion.so/M-dulo-2-Descargar-Python-2df01df1c1a0803e8715c7e774d6f89b?source=copy_link)
-
-    
-✅**Módulo 3: Por qué programamos, Variables y expresiones**  
-* 💡 **Concepto Clave:**  
-    *  ¿Por qué deberías aprender a escribir programas?.  
-    [📄 **Ver Notas en Notion**](https://www.notion.so/Por-qu-deber-as-aprender-a-escribir-programas-2fb01df1c1a08025b7d0fc29fae019d1?source=copy_link)
-    * Palabras reservadas.  
-    [📄 **Ver Notas en Notion**](https://www.notion.so/M-dulo-3-2ee01df1c1a080009f0aff598dd7cbba?source=copy_link)
-    * Conversando con Python.   
-    [📒 **Ver notas en Notion**](https://www.notion.so/Conversando-con-Python-2fe01df1c1a080df81e6ca7e44120095?source=copy_link)
-    * Introducción - Escribir párrafos de código.  
-    [📒 **Ver notas en Notion**](https://www.notion.so/Escribir-p-rrafos-de-c-digo-2fe01df1c1a0803ebe8ee886c513a3f1?source=copy_link)
-
-* **Módulo 4: Código condicional**   
-![En Progreso](https://img.shields.io/badge/En_Progreso-🟡-yellow?style=flat-square)
-* **Módulo 5: Funciones**   
-![Bloqueado](https://img.shields.io/badge/Bloqueado-🔒-lightgrey?style=flat-square)
-* **Módulo 6: Bucles e Iteración**   
-![Bloqueado](https://img.shields.io/badge/Bloqueado-🔒-lightgrey?style=flat-square)
+<p align="center">
+  <img src="Resumen_Libro/Capitulo_1/img/Notion-modulo-capitulo.gif" alt="Demo navegación en Notion" width="600">
+</p>
 
 
+
+
+---
+## 🧠 Aprendizajes Destacados
+
+<details>
+<summary><strong>🍳 Módulo 1 — La Computadora es una Cocina</strong></summary>
 
 &nbsp;
+
+Entender cómo funciona una computadora es más fácil si imaginas una cocina profesional:
+
+| Componente | Analogía |
+|---|---|
+| **CPU** | El **Chef** — trabaja rápido, pero necesita instrucciones precisas. |
+| **RAM** | La **Encimera** — ingredientes listos para usar; se limpia al apagar. |
+| **Disco** | La **Despensa** — almacenamiento a largo plazo, más lento pero seguro. |
+
+> *Mi trabajo como programador es escribir la **receta** perfecta para que el Chef no se pierda.*
+
+</details>
+
+<details>
+<summary><strong>✍️ Módulo 2 — Primer programa real en Python</strong></summary>
+
+&nbsp;
+
+La primera tarea práctica consistió en crear un script (`Tarea1.py`) que no fuera el clásico "hola mundo":
+
+- **Objetivo:** Demostrar que el entorno local funciona correctamente.
+- **Sintaxis:** Uso de `print()` con precisión absoluta para evitar `SyntaxError`.
+- **Documentación:** Triple comillas (`'''`) para incluir instrucciones sin afectar la ejecución.
+- **Verificación:** Capturas de pantalla del editor y la terminal con la salida.
+
+</details>
+
+<details>
+<summary><strong>🏗️ Módulo 3 — Variables, expresiones y sentencias</strong></summary>
+
+&nbsp;
+
+- **Variables y Memoria:** Como un depósito de casilleros. Las variables son las etiquetas (`x = 5`).
+- **Palabras Reservadas:** El vocabulario que Python entiende instintivamente.
+- **Flujo del Código:**
+
+  | Patrón | Descripción |
+  |---|---|
+  | **Secuencial** | Pasos rectos, uno tras otro. |
+  | **Condicional** (`if`) | El código toma decisiones. |
+  | **Repetitivo** (`while`/`for`) | Tareas una y otra vez sin cansarse. |
+
+</details>
+
+<details>
+<summary><strong>🔀 Módulo 4 — Código Condicional</strong></summary>
+
+&nbsp;
+
+El módulo 4 introduce cómo hacer que los programas **tomen decisiones** en función de condiciones:
+
+| Concepto | Descripción |
+|---|---|
+| **Constantes** | Valores fijos que no cambian durante la ejecución (`PI = 3.14`). |
+| **Variables** | Espacios de memoria con nombre que almacenan datos que pueden cambiar. |
+| **Nombres de Variables** | Reglas de nomenclatura: deben ser descriptivos, no pueden empezar con número ni usar palabras reservadas. |
+| **Asignación** | El operador `=` guarda un valor en una variable (`x = 42`). |
+</details>
 
 ---
 
