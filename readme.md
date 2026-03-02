@@ -26,10 +26,7 @@ Aquí no solo encontrarás código, sino mis notas conceptuales sobre cómo func
   
   ## 👀 ¿Cómo revisar el contenido en Notion?
 
-<p align="center">
-  <img src="Resumen_Libro/Capitulo_1/img/Notion-modulo-capitulo.gif" alt="Demo navegación en Notion" width="600">
-</p>
-
+![¿Cómo revisar el contenido en Notion?](./Resumen_Libro/Capitulo_1/img/Notion-modulo-capitulo.gif)
 
 
 
