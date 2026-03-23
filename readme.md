@@ -18,7 +18,10 @@ Aquí no solo encontrarás código, sino mis notas conceptuales sobre cómo func
 | 1 | Por qué programamos | ✅ |
 | 2 | Instalación de Python | ✅ |
 | 3 | Variables, expresiones y sentencias | ✅ |
-| 4 | Código condicional | ✅ |
+| 4 | Variables y expresiones | ✅ |
+| 5 | Código condicional | ✅ |
+| 6 | Funciones | ✅ |
+| 7 | Bucles e iteración | ✅ |
 
 > 📎 **Todas las notas detalladas están en Notion:**  
 > [🔗 **Ir al Notion general del curso**](https://www.notion.so/Programaci-n-para-todos-primeros-pasos-con-Python-2dc01df1c1a080ffa049eda0d3ae1d50?source=copy_link)
@@ -100,21 +103,49 @@ El módulo 4 introduce cómo hacer que los programas **tomen decisiones** en fun
 
 <details>
     <summary>
-        <strong>🟡 Módulo 5 — Capítulo 3: Código condicional</strong>
+        <strong>✅ Módulo 5 — Capítulo 3: Código condicional</strong>
     </summary>
+
+&nbsp;
+
+Hemos aprendido cómo hacer que un programa tome sus propias **decisiones**:
+
+- **La declaración `if` / `else`:** Permite bifurcaciones lógicas. Python decide por sí mismo qué camino de código ejecutar, ignorando el otro.
+- **Operadores de comparación:** Nos permiten hacer preguntas al código (ej. `>=`, `<`, `==`, `!=`).
+- **Bloques e Indentación (`Sangría`):** La forma estricta en que se agrupa el código condicional en Python.
+- **La Estructura Robusta `try` / `except`:** Actúa como una póliza de seguro, donde protegemos un bloque riesgoso para evitar un quiebre (`Traceback`) que arruinaría la experiencia del usuario.
+
 </details>
 
 <details>
     <summary>
-        <strong>🔴 Módulo 6 — Capitulo 4: Funciones</strong>
+        <strong>✅ Módulo 6 — Capítulo 4: Funciones</strong>
     </summary>
-</details>
 
+&nbsp;
+
+Bajo el principio "Guardar y Reutilizar" (DRY), podemos empaquetar bloques de código para ejecutarlos muchas veces:
+
+- **La palabra clave `def`:** Sirve para *guardar* en memoria los pasos bajo un nombre. ¡No se ejecuta de inmediato sino hasta su invocación!
+- **Entradas (Parámetros/Argumentos):** Los datos con los que la función trabaja de forma personalizada en cada invocación.
+- **Salidas (`return`):** Es el valor devuelto hacia afuera por nuestra función. Una que encuentra la instrucción `return` detiene su ejecución y escupe el resultado.
+
+</details>
 
 <details>
     <summary>
-        <strong>🔴 Módulo 7 — Capítulo 5: Bucles e iteración</strong>
+        <strong>✅ Módulo 7 — Capítulo 5: Bucles e iteración</strong>
     </summary>
+
+&nbsp;
+
+Estudiamos cómo hacer para que el código no se canse de hacer la misma tarea:
+
+- **Bucles Indefinidos (`while`):** Se ejecutan siempre que una condición sea verdadera; vital asegurarnos que en algún momento sea falsa para evitar iteraciones infinitas.
+- **Control de Flujo:** Con comandos de escape como `break` (destruir bloque actual por completo) y `continue` (saltar a la siguiente iteración).
+- **Bucles Definidos (`for`):** Iteran un número determinado de veces sobre secuencias finitas de elementos.
+- **El operador `is` y la variable vacía `None`:** La manera más segura de iniciar banderas cuando hacemos un filtrado para hallar un número extremo.
+
 </details>
 
 ---
